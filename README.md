@@ -26,7 +26,6 @@
 1. Скачайте или клонируйте репозиторий:
    ```bash
    git clone https://github.com/Starw1ll/Voice-Assistant.git
-   cd emma-voice-assistant
    ```
 2. Установите зависимости:
    ```bash
