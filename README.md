@@ -57,5 +57,5 @@
 Этот проект распространяется под лицензией MIT. Подробнее см. в [LICENSE](LICENSE).
 
 ## Контакты
-Если у вас есть вопросы или предложения, свяжитесь с нами через [issues](https://github.com/your-repo/issues).
+Если у вас есть вопросы или предложения, свяжитесь с нами через [issues](https://github.com/Starw1ll/Voice-Assistant/issues).
 
