@@ -22,7 +22,10 @@
    ```bash
    pip install -r requirements.txt
    ```
-3. Запустите приложение:
+3. Установите модел VOSK, скопируйте ее в папку с ассистентом и переменуйте в "model"
+   [VOSK model](https://alphacephei.com/vosk/models)
+   
+4. Запустите приложение:
    ```bash
    python main.py
    ```
